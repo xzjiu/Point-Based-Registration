@@ -1,0 +1,15 @@
+* text=auto
+*.cs text
+*.unity text
+*.prefab text
+*.asset text
+*.meta text
+*.json text
+*.md text
+*.obj text
+*.mtl text
+*.png binary
+*.jpg binary
+*.fbx binary
+*.dll binary
+*.pdf binary

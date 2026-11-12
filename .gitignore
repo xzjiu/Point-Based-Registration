@@ -35,3 +35,6 @@ Thumbs.db
 *.keystore
 
 # Keep Unity assets and all accompanying .meta files, including mesh .obj files.
+
+# macOS resource-fork sidecars
+._*
